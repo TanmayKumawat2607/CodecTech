@@ -1,4 +1,4 @@
-This repository contains two Python projects:
+This repository contains two Ml - Python projects:
 1. 🤖 Chatbot NLP(Sevabot)
 An NLP-based customer service chatbot using TF-IDF and fuzzy matching.
 Handles customer queries from `faq_data.json`
