@@ -1,0 +1,51 @@
+{
+    
+    "where is my order": "You can track your order from the 'My Orders' section. Click on the order to see the live tracking status.",
+    "how can I track my order": "Visit 'My Orders' and select the order to view its current status and expected delivery.",
+    "when will my order be delivered": "Your estimated delivery date is mentioned in your order details. Most orders are delivered within 3–5 business days.",
+    "my order is delayed": "We're sorry for the delay. Please check the latest status in 'My Orders'. If it's beyond the expected date, contact support.",
+    "can I change the delivery address": "You can change the address only before the order is shipped. Go to 'My Orders' > Edit Address.",
+    "can I reschedule my delivery": "If your order is eligible, a reschedule option will be visible in your 'My Orders' section.",
+    "why was my order automatically cancelled": "Orders are cancelled if payment fails, the product goes out of stock, or if address issues arise.",
+
+    "what payment methods do you accept": "We accept credit/debit cards, net banking, UPI, wallets, and cash on delivery.",
+    "is cash on delivery available": "Yes, Cash on Delivery is available for eligible orders and locations.",
+    "how can I apply a coupon": "During checkout, click on 'Apply Coupon' and enter your code to get the discount.",
+    "i was charged twice": "We're sorry for the inconvenience. If you were charged twice, the extra amount will be refunded automatically in 5–7 days.",
+    "how do i request a refund": "Go to 'My Orders' > Select Order > Request Refund. Follow the steps and choose the reason.",
+    "how long does it take to get a refund": "Refunds are usually processed within 5–7 business days after we receive the returned item.",
+    "refund initiated but not received": "Please wait up to 7 working days. If it still doesn't arrive, contact support with your order ID.",
+
+    "how can I return a product": "Go to 'My Orders', select the item, and click on 'Return'. Follow the prompts to schedule pickup.",
+    "can I replace a defective item": "Yes, defective items can be replaced within 7 days of delivery through the 'My Orders' section.",
+    "when will my return be picked up": "Your return pickup will be scheduled within 1–2 days. You'll be notified via SMS/email.",
+    "how long does it take to process a return": "Returns are usually processed within 3–5 business days after pickup.",
+    "can I return a product after 10 days": "Most items have a 7 or 10-day return window. If it's expired, returns may not be possible.",
+    "what are the conditions for return eligibility": "Products must be unused, with tags and original packaging. Electronics must be returned with all accessories.",
+
+
+    "is this product available in my area": "Enter your pincode on the product page to check delivery availability.",
+    "will this item be back in stock soon": "If out of stock, click 'Notify Me' to receive an alert when it's available again.",
+    "can I get more details about this product": "Please check the product description, specifications, and Q&A section on the product page.",
+    "do you have size charts for clothing": "Yes, each clothing product has a size chart link under the size options. Use it for accurate fitting.",
+
+
+    "how do I reset my password": "Click on 'Forgot Password' on the login page and follow the instructions to reset it.",
+    "how do I change my email or phone number": "Go to 'Account Settings' and click 'Edit Profile' to update your contact info.",
+    "how can I delete my account": "Contact our customer support to permanently delete your account and data.",
+    "i can't log in to my account": "Ensure your credentials are correct. If you forgot your password, use the reset link.",
+
+
+    "how do I contact customer care": "You can chat with us 24x7 or call us from the 'Help & Support' section.",
+    "do you have 24x7 support": "Yes, our virtual assistant is available 24/7. Phone/chat support is available 9 AM to 9 PM.",
+    "can I talk to a human agent": "Yes. Type 'talk to agent' or go to Help > Contact Us to connect with a representative.",
+    "where is your nearest service center": "Please visit the 'Service Centers' page and enter your pincode to find the nearest location.",
+
+
+    "are there any current discounts": "Yes! Check our homepage or app banner for today’s best deals and ongoing sales.",
+    "how can I use my reward points": "Reward points can be applied at checkout, if your account has eligible balance.",
+    "do you offer student discounts": "Currently we do not offer a student discount, but stay tuned for special promotions."
+
+
+
+}
